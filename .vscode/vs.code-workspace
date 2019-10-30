@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../"
+		}
+	],
+	"settings": {
+		"bashBeautify.tabSize": 2
+	}
+}
